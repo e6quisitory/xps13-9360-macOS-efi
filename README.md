@@ -1,5 +1,7 @@
 # XPS 13 9360 macOS EFI
 
+<img src="https://user-images.githubusercontent.com/25702188/189503296-12a3edf9-4284-40fd-8ea4-1fb9c6e70db6.jpg" width="672" height="504"/>
+
 | Info | Value |
 | ------------- | ------------- |
 | macOS Version  | 12.5 Monterey  |
