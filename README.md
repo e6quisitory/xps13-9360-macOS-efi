@@ -21,5 +21,6 @@ Refer to [this repo](https://github.com/theQuert/XPS-9360-macOS) for my BIOS set
 | Brightness function keys | Use [MonitorControl](https://github.com/MonitorControl/MonitorControl) 
 | USB-C/Thunderbolt | For USB-C, must properly map ports. Thunderbolt I disabled in BIOS. |
 | Battery life | Greatly reduced vs Windows. Still lasts 3-4 hours, through, so it's satisfactory.</br>Perhaps caused due to running SSD in AHCI instead of RAID. [Optimization](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html) is possible, however. I just did not bother as I normally use with AC adapter plugged in. |
+| Shutdown/Restart bug | If the power adapter is plugged and you click shut down, it shuts down, but then a second later, reboots. Must unplug power adapter before issuing shut down command to make sure XPS actually does shut down. |
 
 Everything is working except the list above. Used this configuration for a year without any hiccups.</br>Have now switched to a 2012 MacBook Air. Spec downgrade, yes, however, dat Apple materials and build quality, and ergonomics, is just something else...
